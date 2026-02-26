@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**codeJCimaszewski/codeJCimaszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 GIS Specialist in Training | Data Enthusiast
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently learning about Geospatial Analysis and Relational Databases.
+---
+### 🛠️ Tech Stack & Learning Path
+* **GIS:** QGIS, ArcGIS Pro/Online
+* **Databases:** SQL (PostgreSQL + PostGIS)
+* **Focus:** Spatial queries, data cleaning, and map automation
+---
+### 🚀 Current Goals
+* Mastering PostGIS for complex spatial analysis
+* Building a portfolio of open-source GIS projects
+* Improving my workflow in Python (ArcPy/PyQGIS)
+---
+**Fun Fact:** I'm a personal traininer and fan of trekking, and good music.
